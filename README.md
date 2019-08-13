@@ -1,0 +1,2 @@
+# PalindromeGenerator
+PalindromeGenerator in java
